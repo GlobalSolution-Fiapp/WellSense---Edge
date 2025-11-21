@@ -98,6 +98,14 @@ l|<valor_luz>|t|<valor_temp>|c|<valor_co2>
 
     sensor_id@off| -> Desliga o LED.
 
+
+### Integrantes:
+Jessica Vitória Tavares – RM566220
+
+Luara Freire Soares – RM561266
+
+Miguel Amaro Dourado de Sousa – RM566200
+
 ### 📄 Licença
 
 Desenvolvido para o projeto WorkWell - Global Solution.
